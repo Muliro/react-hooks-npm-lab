@@ -1,0 +1,24 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muliro/react-hooks-npm-lab.git"
+  },
+  "author": "Michael Muliro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Muliro/react-hooks-npm-lab/issues"
+  },
+  "homepage": "https://github.com/Muliro/react-hooks-npm-lab#readme",
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "serve": "^14.0.0"
+  }
+}
